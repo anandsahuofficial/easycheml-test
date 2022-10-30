@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/MichaelKim0407/tutorial-pip-package.svg?branch=master)](https://travis-ci.com/MichaelKim0407/tutorial-pip-package)
 [![Coverage Status](https://coveralls.io/repos/github/MichaelKim0407/tutorial-pip-package/badge.svg?branch=master)](https://coveralls.io/github/MichaelKim0407/tutorial-pip-package?branch=master)
 
-Author: Michael Kim <mkim0407@gmail.com>
+this article belongs to Author: Michael Kim <mkim0407@gmail.com>
 
 ## Overview
 
